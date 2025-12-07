@@ -1,0 +1,7 @@
+{
+  "name": "MyCityHelp",
+  "description": "A hyperlocal platform for services, skills, lost & found, and civic solutions with AI assistance.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
